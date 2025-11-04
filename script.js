@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const bioMessages = [
   `${long} days since I found my passion`,
-  'Just your average aspiring Software developer',
+  'Just a aspiring Software developer',
 ];
 
 
@@ -581,4 +581,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
